@@ -2,7 +2,7 @@ ckey=
 csecret=
 atoken=
 asecret=
-'''save twitter data into a file and filter using pandora  '''
+'''save twitter data into a file and filter using search term '''
 #!/usr/bin/python
 import tweepy
 import csv #Import csv
